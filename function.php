@@ -35,22 +35,12 @@ function debuglog(){
 
 
 //エラー定数用意
-define('SG01','入力必須です。')
-define('SG01','入力必須です。')
-define('SG01','入力必須です。')
-define('SG01','入力必須です。')
-define('SG01','入力必須です。')
-define('SG01','入力必須です。')
-define('SG01','入力必須です。')
-define('SG01','入力必須です。')
-define('SG01','入力必須です。')
-define('SG01','入力必須です。')
-define('SG01','入力必須です。')
-define('SG01','入力必須です。')
-define('SG01','入力必須です。')
-define('SG01','入力必須です。')
-define('SG01','入力必須です。')
-define('SG01','入力必須です。')
+define('SG01','入力必須です。');
+define('SG01','入力必須です。');
+define('SG01','入力必須です。');
+define('SG01','入力必須です。');
+define('SG01','入力必須です。');
+
 
 
 ?>
