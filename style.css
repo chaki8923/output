@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+
+/*ヘッダー部*/
+header{
+    width: 100%;
+    height: 80px;
+    background: #7c4c53;
+    
+}
+
+header h1{
+    float: left;
+    line-height: 80px;
+}
+
+header h1 a{
+    text-decoration: none;
+    color: azure;
+    padding-left: 20px;
+}
+
+.site-width{
+    width: 980px;
+    margin: 0;
+    overflow: hidden;
+}
+
+.top-nav{
+    width: 500px;
+    line-height: 80px;
+    position: relative;
+    float: right;
+}
+
+.top-nav ul{
+    list-style: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: 0;
+    widows: 450px;
+}
+
+.top-nav ul li{
+    float: right;
+    
+}
+
+nav a{
+    padding: 10px 15px;
+    color:aliceblue;
+    font-weight: bold;
+    font-size: 16px;
+    
+}
+
+/*フォーム*/
+
+.body-title{
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.form{
+    width: 50%;
+    height: 380px;
+    padding: 20px 25px;
+    margin: auto;
+    margin-top: 30px;
+    border: 2px #c2bfb5 solid;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="number"],
+textarea{
+    display: block;
+    width: 100%;
+    height: 60px;
+    border: none;
+    background: #f0eee9;
+}
+
+.area-msg{
+    margin-top: 10px;
+}
+
+input[type="submit"]{
+    margin-top: 15px;
+    padding: 10px 18px;
+    border: none;
+    color: aliceblue;
+    border-radius: 10%;
+    background: #363b48;
+    cursor: pointer;
+    font-weight: bold;
+}
+
